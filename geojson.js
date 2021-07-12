@@ -11,7 +11,13 @@ var json = {
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "test title zzz",
+        "description": "test description zzz"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
