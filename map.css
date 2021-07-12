@@ -1,0 +1,27 @@
+img {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.leaflet-popup-content {
+  width: 250px;
+}
+
+li {
+  padding: 2px 0;
+}
+
+#map {
+  height: 500px;
+  width: 90%;
+}
+
+.map_feature {
+  max-height: 300px;
+  overflow: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+}
